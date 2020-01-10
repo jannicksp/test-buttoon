@@ -1,3 +1,4 @@
+
 export default class StandardJSWebComponent extends HTMLElement {
   constructor() {
 
